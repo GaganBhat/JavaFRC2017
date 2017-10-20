@@ -1,2 +1,2 @@
 # JavaFRC2017
-New official code for the 2017 FRC. Will be updating regularly over the summer. 
+New code based on 2220 R4 Config. Will be updating regularly.
